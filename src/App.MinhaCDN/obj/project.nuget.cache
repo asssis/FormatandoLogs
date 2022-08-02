@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "hfnBov8X02a7mOQvoorJLXLAz6TG5v/U+1np8PL9yb3hemzggzEik4l2FgLD2sYoxqc/C0MGhdplvl+y2AQytw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\asjus\\projetos\\App.MinhaCDN\\src\\App.MinhaCDN\\App.MinhaCDN.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\asjus\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.27\\microsoft.extensions.dependencyinjection.3.1.27.nupkg.sha512",
+    "C:\\Users\\asjus\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.27\\microsoft.extensions.dependencyinjection.abstractions.3.1.27.nupkg.sha512",
+    "C:\\Users\\asjus\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

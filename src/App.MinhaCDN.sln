@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "App.MinhaCDN", "App.MinhaCDN\App.MinhaCDN.csproj", "{07A45695-16C2-4803-AB40-7F4479DFC6EF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{BEF07646-D797-4A83-B429-260E515FA302}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "App.MinhaCDN.Test", "App.MinhaCDN.Test\App.MinhaCDN.Test.csproj", "{ECA11B69-E130-4B16-845E-DCCD4979ED05}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07A45695-16C2-4803-AB40-7F4479DFC6EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07A45695-16C2-4803-AB40-7F4479DFC6EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07A45695-16C2-4803-AB40-7F4479DFC6EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07A45695-16C2-4803-AB40-7F4479DFC6EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECA11B69-E130-4B16-845E-DCCD4979ED05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECA11B69-E130-4B16-845E-DCCD4979ED05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECA11B69-E130-4B16-845E-DCCD4979ED05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECA11B69-E130-4B16-845E-DCCD4979ED05}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{07A45695-16C2-4803-AB40-7F4479DFC6EF} = {BEF07646-D797-4A83-B429-260E515FA302}
+		{ECA11B69-E130-4B16-845E-DCCD4979ED05} = {BEF07646-D797-4A83-B429-260E515FA302}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F4E54FF-E558-452E-9569-EEB38FB4E870}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,59 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "App.MinhaCDN/1.0.0": {
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection": "3.1.27"
+        },
+        "runtime": {
+          "App.MinhaCDN.dll": {}
+        }
+      },
+      "Microsoft.Extensions.DependencyInjection/3.1.27": {
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "3.1.27"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll": {
+            "assemblyVersion": "3.1.27.0",
+            "fileVersion": "3.100.2722.31601"
+          }
+        }
+      },
+      "Microsoft.Extensions.DependencyInjection.Abstractions/3.1.27": {
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
+            "assemblyVersion": "3.1.27.0",
+            "fileVersion": "3.100.2722.31601"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "App.MinhaCDN/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Extensions.DependencyInjection/3.1.27": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-+a9sare70XTpsfAFwCJ9Ka5zEZGvbz3bl4ul8KOTT09amXoHRgIRTLeePOXJHu8IK2sksfZHO1PMjEh+ZCG5VQ==",
+      "path": "microsoft.extensions.dependencyinjection/3.1.27",
+      "hashPath": "microsoft.extensions.dependencyinjection.3.1.27.nupkg.sha512"
+    },
+    "Microsoft.Extensions.DependencyInjection.Abstractions/3.1.27": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-LpfjoAuQFVbSMo5XhpXpEyQ6T0xD3wrcOcQqbyEXETbiMZNTQcbR7qyX5Nzb8cU9GFd1LLzz29kE6JB18MvoSg==",
+      "path": "microsoft.extensions.dependencyinjection.abstractions/3.1.27",
+      "hashPath": "microsoft.extensions.dependencyinjection.abstractions.3.1.27.nupkg.sha512"
+    }
+  }
+}

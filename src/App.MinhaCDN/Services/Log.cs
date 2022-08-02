@@ -10,10 +10,11 @@ namespace App.MinhaCDN.Services
     public class Log : ILog
     { 
         private readonly IResolve Resolve;
-        Validation Validation = new Validation();
-        public Log(IResolve _Resolve)
+        private readonly IValidation Validation;
+        public Log(IResolve _Resolve, IValidation _Validation)
         {
             Resolve = _Resolve;
+            Validation = _Validation;
         }
         public string ConverterLog(string Logs)
         { 
